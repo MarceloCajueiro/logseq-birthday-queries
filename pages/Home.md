@@ -1,0 +1,4 @@
+- Hello! I'm [Marcelo Cajueiro](https://cajueiro.me/) and this is a logseq repository with reusable stuff.
+- ## Summary
+	- ### Queries
+		- #### [[Birthdays query]]

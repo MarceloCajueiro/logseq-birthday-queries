@@ -299,4 +299,5 @@
  :ui/show-brackets? false
  :feature/enable-timetracking? false
  :git/disable-auto-commit? true
+ :publishing/all-pages-public? true
  }

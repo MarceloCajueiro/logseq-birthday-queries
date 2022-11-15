@@ -237,3 +237,9 @@ tags:: #query
 		- Using the property: `query-properties: [:page :birthday]`
 		- query-properties:: [:page :birthday]
 		  ((63737d32-22a1-4d90-a789-afa336299130))
+	- References
+		- [Advanced Queries official doc](https://docs.logseq.com/#/page/advanced%20queries)
+		- [Discuss answer on how to query block property with a date](https://discuss.logseq.com/t/how-to-query-block-property-with-a-date/11825/6?u=cashew)\
+		- [Query example - using custom view](https://gist.github.com/tiensonqin/b319e19e6a1ef4659f24bb3b71d3d025)
+		- [Logseq source: db rules](https://github.com/logseq/logseq/blob/master/deps/db/src/logseq/db/rules.cljc)
+		- [Logseq source: db schema](https://github.com/logseq/logseq/blob/master/deps/db/src/logseq/db/schema.cljs)
